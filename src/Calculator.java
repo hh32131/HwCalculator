@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Calculator {
 	
-		private static Scanner input;
+		private static Scanner input; //주석추가
 
 		public static void main(String[] args){
 			
